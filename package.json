@@ -1,0 +1,9 @@
+{
+  "name": "wechat-paykit",
+  "version": "0.0.1",
+  "description": "A paykit for wechat",
+  "main": "index.js",
+  "repository": "https://github.com/hom/wechat-paykit.git",
+  "author": "mengj <813935532@qq.com>",
+  "license": "MIT"
+}
